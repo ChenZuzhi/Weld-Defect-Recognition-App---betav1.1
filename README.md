@@ -42,7 +42,7 @@ Noticing: The anti-virus software like 360 may report a virus, **ignore it**. Th
 If the users open the app successfully, you shall see something like this:
 
 <div align=center>
-<img src="https://github.com/ChenZuzhi/Weld-Defect-Recognition-App/blob/master/ImgsForReadme/1.png">
+<img src="https://github.com/ChenZuzhi/Weld-Defect-Recognition-App---betav1.1/blob/master/ImgsForReadme/1.png">
 </div>
  <br>
  <br>
@@ -51,7 +51,7 @@ If the users open the app successfully, you shall see something like this:
 Then the users can click the 'select an image' button to open an image(Noticing that *.jpg, *.jpeg, *.png, *.bmp image format are supported):
 
 <div align=center>
-<img src="https://github.com/ChenZuzhi/Weld-Defect-Recognition-App/blob/master/ImgsForReadme/2.png">
+<img src="https://github.com/ChenZuzhi/Weld-Defect-Recognition-App---betav1.1/blob/master/ImgsForReadme/2.png">
 </div>
  <br>
  <br>
@@ -60,7 +60,7 @@ Then the users can click the 'select an image' button to open an image(Noticing 
 If the image is opened successfully, the users shall see something like this:
 
 <div align=center>
-<img src="https://github.com/ChenZuzhi/Weld-Defect-Recognition-App/blob/master/ImgsForReadme/3.png">
+<img src="https://github.com/ChenZuzhi/Weld-Defect-Recognition-App---betav1.1/blob/master/ImgsForReadme/3.png">
 </div>
  <br>
  <br>
@@ -75,7 +75,7 @@ If the users want to use the GPU computing for this app. Firstly, please make su
 The running processing looks like this, the blue rectangle marks at which block the app is working at the moment.
 
 <div align=center>
-<img src="https://github.com/ChenZuzhi/Weld-Defect-Recognition-App/blob/master/ImgsForReadme/4.png">
+<img src="https://github.com/ChenZuzhi/Weld-Defect-Recognition-App---betav1.1/blob/master/ImgsForReadme/4.png">
 </div>
  <br>
  <br>
@@ -88,7 +88,7 @@ The users can export the image to anywhere that makes them happy.
 The finished dialog looks like this, the blue rectangle in this image shows the area that the app involving:
 
 <div align=center>
-<img src="https://github.com/ChenZuzhi/Weld-Defect-Recognition-App/blob/master/ImgsForReadme/5.png">
+<img src="https://github.com/ChenZuzhi/Weld-Defect-Recognition-App---betav1.1/blob/master/ImgsForReadme/5.png">
 </div>
  <br>
  <br>
@@ -97,7 +97,7 @@ The finished dialog looks like this, the blue rectangle in this image shows the 
 Clicking the 'export' button then the users can export the finished image:
 
 <div align=center>
-<img src="https://github.com/ChenZuzhi/Weld-Defect-Recognition-App/blob/master/ImgsForReadme/6.png">
+<img src="https://github.com/ChenZuzhi/Weld-Defect-Recognition-App---betav1.1/blob/master/ImgsForReadme/6.png">
 </div>
  <br>
  <br>
