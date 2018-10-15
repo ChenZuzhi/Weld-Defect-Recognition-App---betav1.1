@@ -85,7 +85,7 @@ When the progress is done. The users will see the final image in the dialog wind
 
 The users can export the image to anywhere that makes them happy.
 
-The finished dialog looks like this, the blue rectangle in this image shows the area that the app involving:
+The finished dialog looks like this, the blue rectangle in this image shows the area that the app recognizing:
 
 <div align=center>
 <img src="https://github.com/ChenZuzhi/Weld-Defect-Recognition-App---betav1.1/blob/master/ImgsForReadme/5.png">
