@@ -1,0 +1,4 @@
+porosity
+burnthrough
+normal
+crack
