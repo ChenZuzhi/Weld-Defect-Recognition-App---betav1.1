@@ -1,2 +1,0 @@
-由于文件大小限制
-output_graph_incep.pb和output_graph_mobile.pb上传失败，请从其他地方下载weld_defect/trained_model中复制此文件
